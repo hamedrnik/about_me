@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My name is Hamed. I was born and grew up in Iran, but have been living in Dublin, Ireland since 2013. I am a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. Currently I'm working for [AYLIEN](http://aylien.com/){:target="_blank"}. I'm really interested in the following topics:
+My name is Hamed. I was born and grew up in Iran, but have been living in Dublin, Ireland since 2013. I am a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. Currently I'm working at [AYLIEN](http://aylien.com/){:target="_blank"}. I'm really interested in the following topics:
 
+* Distributed databases (e.g. [HBase](https://hbase.apache.org/){:target="_blank"} and [Cassandra](http://cassandra.apache.org/){:target="_blank"})
+* Distributed search engines (e.g. [Apache Solr](https://lucene.apache.org/solr/){:target="_blank"} and [Elastic search](https://www.elastic.co/products/elasticsearch){:target="_blank"})
 * Desgining REST APIs
-* Building search engine by [Apache Solr](https://lucene.apache.org/solr/){:target="_blank"} or [Elastic search](https://www.elastic.co/products/elasticsearch){:target="_blank"}
 * Building scalable systems
 
 ## Free and Open source Projects/Contributions
