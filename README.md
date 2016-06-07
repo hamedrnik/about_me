@@ -1,2 +1,2 @@
 # About Me
-It simply is my personal webpage.
+It's my personal webpage.
