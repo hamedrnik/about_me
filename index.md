@@ -36,7 +36,6 @@ My name is Hamed. I was born and grew up in Iran, but have been living in Dublin
 * Distributed databases (e.g. [HBase](https://hbase.apache.org/){:target="_blank"} and [Cassandra](http://cassandra.apache.org/){:target="_blank"})
 * Distributed search engines (e.g. [Apache Solr](https://lucene.apache.org/solr/){:target="_blank"} and [Elastic search](https://www.elastic.co/products/elasticsearch){:target="_blank"})
 * Desgining REST APIs
-* Designing Relational and Non-Relational databases with scalability in mind
 * Building scalable systems
 * Machine Learning and NLP
 
