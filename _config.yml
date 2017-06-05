@@ -8,11 +8,11 @@
 # Site settings
 title: Hamed R. Nik
 description: > # this means to ignore newlines until "baseurl:"
-   Hamed earned a bachelor's degree in Software engineering.
-   He's interested in finding an algorithm for life. 
-   Currently he lives in Dublin, Ireland. 
+   My name is Hamed. I was born and grew up in Iran, but have
+   been living in Dublin, Ireland since 2013. I am a Free Software enthusiast.
+   Currently I'm working at AYLIEN
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hamedrnik.com" # the base hostname & protocol for your site
-
+keywords: Hamed Ramezanian Nik,Personal Website,Hamed R. Nik,Hamed
 # Build settings
 markdown: kramdown
