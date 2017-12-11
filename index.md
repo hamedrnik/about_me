@@ -32,8 +32,9 @@ permalink: /
 </div>
 <br />
 
-My name is Hamed. I was born and grew up in Iran, but have been living in Dublin, Ireland since 2013. I am a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. Currently, I'm working at [AYLIEN](http://aylien.com/){:target="_blank"}. I'm interested in the following topics:
+My name is Hamed. I was born and grew up in Iran, but have been living in Dublin, Ireland since 2013. I am a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. Currently, I'm working at [Jet.com](https://jet.com/){:target="_blank"}. I'm interested in the following topics:
 
+* Functional programming
 * Distributed databases (e.g. [HBase](https://hbase.apache.org/){:target="_blank"} and [Cassandra](http://cassandra.apache.org/){:target="_blank"})
 * Distributed search engines (e.g. [Apache Solr](https://lucene.apache.org/solr/){:target="_blank"} and [Elastic search](https://www.elastic.co/products/elasticsearch){:target="_blank"})
 * Algorithm Design and PL
