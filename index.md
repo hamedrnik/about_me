@@ -32,14 +32,14 @@ permalink: /
 </div>
 <br />
 
-My name is Hamed. I was born and grew up in Iran, but have been living in Dublin, Ireland since 2013. I am a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. Currently, I'm working at [Jet.com](https://jet.com/){:target="_blank"}. I'm interested in the following topics:
+Hamed is born and grew up in Iran, but has been living in Dublin, Ireland since 2013. He is a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. Currently, he's working at [Walmart Labs](https://www.walmartlabs.com/){:target="_blank"}. He's interested in the following topics:
 
-* Functional programming
-* Distributed databases (e.g. [HBase](https://hbase.apache.org/){:target="_blank"} and [Cassandra](http://cassandra.apache.org/){:target="_blank"})
-* Distributed search engines (e.g. [Apache Solr](https://lucene.apache.org/solr/){:target="_blank"} and [Elastic search](https://www.elastic.co/products/elasticsearch){:target="_blank"})
+* Functional Programming
+* Distributed Systems
+* Distributed Search Engines (e.g. [Apache Solr](https://lucene.apache.org/solr/){:target="_blank"} and [Elastic search](https://www.elastic.co/products/elasticsearch){:target="_blank"})
 * Algorithm Design and PL
 * Designing REST APIs
-* Building scalable systems
+* Building Scalable Systems
 * Machine Learning and NLP
 
 #### Free and Open source Projects/Contributions
@@ -50,6 +50,6 @@ My name is Hamed. I was born and grew up in Iran, but have been living in Dublin
 * and here's [my GitHub page](https://github.com/iCEAGE){:target="_blank"}
 
 ## Contact
-* Please feel free to drop me an email at ![alt text](/images/hamed.png "Hamed R. Nik")
+* Please feel free to drop him an email at ![alt text](/images/hamed.png "Hamed R. Nik")
 
-* I'm occasionally online on IRC as hamed_r on irc.freenode.net.
+* He's occasionally online on IRC as hamed_r on irc.freenode.net.
