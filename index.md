@@ -32,7 +32,7 @@ permalink: /
 </div>
 <br />
 
-Hamed is born and grew up in Iran, but has been living in Dublin, Ireland since 2013. He is a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. Currently, he's working at [Walmart Labs](https://www.walmartlabs.com/){:target="_blank"}. He's interested in the following topics:
+Hamed was born and grew up in Iran but has been living in Dublin, Ireland since 2013. He is a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. He's interested in the following topics:
 
 * Functional Programming
 * Distributed Systems
@@ -47,7 +47,7 @@ Hamed is born and grew up in Iran, but has been living in Dublin, Ireland since 
 * [rbootstrap](https://github.com/jnaqsh/bootstrap){:target="_blank"} is RTL Twitter Bootstrap for RTL languages
 * [TextCaptcha](https://github.com/jnaqsh/farsi_textcaptcha){:target="_blank"} is a Text Captcha API for the Persian language
 * Wikipedia contributor
-* and here's [my GitHub page](https://github.com/iCEAGE){:target="_blank"}
+* and here's [my GitHub page](https://github.com/hamedrnik){:target="_blank"}
 
 ## Contact
 * Please feel free to drop him an email at ![alt text](/images/hamed.png "Hamed R. Nik")
