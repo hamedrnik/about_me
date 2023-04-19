@@ -4,41 +4,11 @@ title: About
 permalink: /
 ---
 
-<!-- Wide card with share menu button -->
-<style>
-.demo-card-wide.mdl-card {
-  width: 512px;
-}
-.demo-card-wide > .mdl-card__title {
-  color: #fff;
-  height: 250px;
-  background: rgba(0, 0, 0, 0) url("/images/hamed_r_nik_background.jpg") repeat scroll center center / cover;
-}
-.demo-card-wide > .mdl-card__menu {
-  color: #fff;
-}
-.home {
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+Hamed is a Software Engineer who has been working professionally since 2010. He is passionate about learning new algorithms and PL. He’s interested in the following topics:
 
-<div class="home">
-  <div class="demo-card-wide mdl-card mdl-shadow--2dp">
-    <div class="mdl-card__title">
-    </div>
-  </div>
-</div>
-<br />
-
-Hamed was born and grew up in Iran but has been living in Dublin, Ireland since 2013. He is a [Free Software](https://en.wikipedia.org/wiki/Free_software){:target="_blank"} enthusiast. He's interested in the following topics:
-
-* Functional Programming
 * Distributed Systems
 * Distributed Search Engines (e.g. [Apache Solr](https://lucene.apache.org/solr/){:target="_blank"} and [Elastic search](https://www.elastic.co/products/elasticsearch){:target="_blank"})
 * Algorithm Design and PL
-* Designing REST APIs
 * Building Scalable Systems
 * Machine Learning and NLP
 
